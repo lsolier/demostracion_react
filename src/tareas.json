@@ -1,0 +1,35 @@
+{
+    "tareas":[
+        {
+            "titulo":"Tarea 1",
+            "responsable":"Luis",
+            "descripcion":"lorem impsum",
+            "prioridad":"baja"
+        },
+        {
+            "titulo":"Tarea 2",
+            "responsable":"Diana",
+            "descripcion":"lorem impsum 2",
+            "prioridad":"media"
+        },
+        {
+            "titulo":"Tarea 3",
+            "responsable":"Maycol",
+            "descripcion":"lorem impsum 3",
+            "prioridad":"alta"
+        },
+        {
+            "titulo":"Tarea 4",
+            "responsable":"Nick",
+            "descripcion":"lorem impsum 4",
+            "prioridad":"alta"
+        },
+        {
+            "titulo":"Tarea 4",
+            "responsable":"Nick",
+            "descripcion":"lorem impsum 4",
+            "prioridad":"alta"
+        }
+
+    ]
+}
